@@ -1,0 +1,1 @@
+Always remember to prefix your public assets(images, js, css), with <?=ROOT?>, then the path eg /assets/images/image.jpg

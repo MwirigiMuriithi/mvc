@@ -1,4 +1,6 @@
 <?php
+/*config.php*/
+defined('ROOTPATH') or exit('Access Denied!');
 if($_SERVER['SERVER_NAME']== 'localhost')
 {
     define("ROOT","http://localhost/mvc/public");

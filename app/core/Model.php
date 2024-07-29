@@ -1,5 +1,7 @@
 <?php 
-
+/*Model.php*/
+namespace Model;
+defined('ROOTPATH') or exit('Access Denied!');
 Trait Model
 {
 	use Database;
